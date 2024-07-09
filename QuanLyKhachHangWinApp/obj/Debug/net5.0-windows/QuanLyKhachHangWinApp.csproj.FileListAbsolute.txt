@@ -1,0 +1,104 @@
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.exe
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.deps.json
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.json
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.dev.json
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmAdd.resources
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmQLKhachHang.resources
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.Properties.Resources.resources
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.GenerateResource.cache
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfoInputs.cache
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfo.cs
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.CoreCompileInputs.cache
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\refint\QuanLyKhachHangWinApp.dll
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.genruntimeconfig.cache
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\ref\QuanLyKhachHangWinApp.dll
+D:\CustomerManagementProject\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmUpdate.resources
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.exe
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.deps.json
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.json
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.dev.json
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmAdd.resources
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmQLKhachHang.resources
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmUpdate.resources
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.Properties.Resources.resources
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.GenerateResource.cache
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfoInputs.cache
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfo.cs
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.CoreCompileInputs.cache
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\refint\QuanLyKhachHangWinApp.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.genruntimeconfig.cache
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\ref\QuanLyKhachHangWinApp.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.AssemblyReference.cache
+D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.CopyComplete
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.AssemblyReference.cache
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmAdd.resources
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmQLKhachHang.resources
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmUpdate.resources
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.Properties.Resources.resources
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.GenerateResource.cache
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfoInputs.cache
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfo.cs
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.CoreCompileInputs.cache
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\refint\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.exe
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.deps.json
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.json
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.dev.json
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKh.CE1DF171.Up2Date
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.genruntimeconfig.cache
+C:\Users\TruongCongPhat\Desktop\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\ref\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.exe
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.deps.json
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.json
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.dev.json
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.AssemblyReference.cache
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmAdd.resources
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmQLKhachHang.resources
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.frmUpdate.resources
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.Properties.Resources.resources
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.GenerateResource.cache
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfoInputs.cache
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.AssemblyInfo.cs
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.csproj.CoreCompileInputs.cache
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKh.CE1DF171.Up2Date
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\refint\QuanLyKhachHangWinApp.dll
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.pdb
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\QuanLyKhachHangWinApp.genruntimeconfig.cache
+C:\Users\TruongCongPhat\Desktop\QLKHNEW\QuanLyKhachHangWinApp\obj\Debug\net5.0-windows\ref\QuanLyKhachHangWinApp.dll

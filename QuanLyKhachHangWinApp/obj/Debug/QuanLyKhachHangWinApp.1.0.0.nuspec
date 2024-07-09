@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QuanLyKhachHangWinApp</id>
+    <version>1.0.0</version>
+    <authors>QuanLyKhachHangWinApp</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.runtimeconfig.json" target="lib\net5.0-windows7.0\QuanLyKhachHangWinApp.runtimeconfig.json" />
+    <file src="D:\daihoc2\Lập trình hướng đối tượng\QuanLyKhachHangWinApp\QuanLyKhachHangWinApp\bin\Debug\net5.0-windows\QuanLyKhachHangWinApp.dll" target="lib\net5.0-windows7.0\QuanLyKhachHangWinApp.dll" />
+  </files>
+</package>
